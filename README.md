@@ -1,2 +1,2 @@
 # wallpaper
-This is not owned by me. Just a collection
+This is not owned by me<br> Just a collection
